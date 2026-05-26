@@ -30,8 +30,10 @@ I love optimizing algorithms and solving complex mathematical and logical puzzle
 ## Key Projects
 Here are some of the notable projects I have engineered:
 * **Smart City Simulator:** A dynamic DSA-focused graph routing system mapped specifically to the Kancharapalem area of Visakhapatnam.
-* **April:** A custom-built, highly intuitive personal AI assistant project.
-* **Hardware Tinkering:** Arduino-based automation prototypes featuring PIR motion sensors, LCD logic, and motor control circuits.
+* **April:** A custom-built, highly intuitive personal AI assistant project
+* **Hardware Tinkering:** Arduino-based automation prototypes featuring PIR motion sensors, LCD logic, and motor control circuits
+And MAny more................................. Check It Out In My Github  repositorys
+
 
 ---
 
