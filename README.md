@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer, competitive programmer
 ---
 
 ## Connect With Me & View My Portfolios
-* **[My Personal Portfolio Website]([https://saivatsal.github.io/Portfolio/])** *(Houses all my 1st-year engineering tools, full project showcases, and certificates!)*
+* **[My Personal Portfolio Website]    [https://saivatsal.github.io/Portfolio/]*
+* *(Houses all my 1st-year engineering tools, full project showcases, and certificates!)*
 * 💼 **[LinkedIn Profile]       [https://www.linkedin.com/in/sai-vatsal-polimera-41995335b/]
 * 📧 **Email:** [vatsal1327@gmail.com]
 
