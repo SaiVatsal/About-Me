@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer, competitive programmer
 ##  Competitive Programming & Problem Solving
 I love optimizing algorithms and solving complex mathematical and logical puzzles. Here is where you can find my competitive programming ratings and profiles:
 
-* **Codeforces:** [View Profile]([https://codeforces.com/profile/SaiVatsal.fx])
+* **Codeforces:** (https://codeforces.com/profile/SaiVatsal.fx]
 * **LeetCode:**([https://leetcode.com/u/SaiVatsal/])
 
 ---
